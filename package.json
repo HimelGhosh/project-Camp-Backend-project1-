@@ -1,0 +1,19 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "Project Management application",
+  "keywords": [
+    "backend",
+    "ApiCreation"
+  ],
+  "license": "ISC",
+  "author": "Himel Ghosh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.9.9"
+  }
+}
